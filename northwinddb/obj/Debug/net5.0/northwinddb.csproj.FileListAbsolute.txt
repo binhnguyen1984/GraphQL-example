@@ -1,0 +1,15 @@
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\northwinddb.deps.json
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\northwinddb.runtimeconfig.json
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\northwinddb.runtimeconfig.dev.json
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\northwinddb.dll
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\ref\northwinddb.dll
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\bin\Debug\net5.0\northwinddb.pdb
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.csprojAssemblyReference.cache
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.AssemblyInfoInputs.cache
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.AssemblyInfo.cs
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.csproj.CoreCompileInputs.cache
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.dll
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\ref\northwinddb.dll
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.pdb
+C:\Users\lnztha01\source\repos\Samples-master\GraphQL\northwinddb\obj\Debug\net5.0\northwinddb.genruntimeconfig.cache
